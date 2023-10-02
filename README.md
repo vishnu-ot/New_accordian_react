@@ -5,7 +5,7 @@ This is a sample app that demonstrates a simple accordion functionality. I have 
 This app is mobile responsive
 
 # Live link to access app : 
-
+https://accordian-react.vercel.app/
 # Sample see the sample screen shorts
 
 ![Alt text](<Screenshot from 2023-10-02 19-52-14.png>) 
